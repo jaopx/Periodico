@@ -1,0 +1,18 @@
+#tabla1{
+    border: 2px solid;
+    color: black;
+    margin: 1px;
+
+}
+#tabla2{
+    border: 2px solid; color: black;
+    margin: 1px;
+}
+.h1{
+    text-align: center;
+    color: red;
+}
+.h2{
+    text-align: center;
+    color: blueviolet;
+}
